@@ -1,0 +1,11 @@
+{
+  "name": "tweet-song",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "execa": "^0.10.0",
+    "one-cache": "^1.0.0",
+    "twit": "^2.2.10"
+  }
+}

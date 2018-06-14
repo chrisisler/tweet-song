@@ -1,0 +1,138 @@
+{
+  "cacheKeyName": "bar",
+  "result": {
+    "data": {
+      "created_at": "Thu Jun 14 07:09:53 +0000 2018",
+      "id": 1007158167715962900,
+      "id_str": "1007158167715962880",
+      "text": "Currently playing Terraform by Fit for an Autopsy [2:49/3:47].",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://google.com\" rel=\"nofollow\">orbin-bot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 974700047517528000,
+        "id_str": "974700047517528065",
+        "name": "orbin-bot",
+        "screen_name": "OrbinBot",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 146,
+        "listed_count": 0,
+        "created_at": "Fri Mar 16 17:32:55 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 255,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974706294283296768/xszpDDHM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974706294283296768/xszpDDHM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974700047517528065/1521223278",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "resp": {
+      "statusCode": 200,
+      "headers": {
+        "cache-control": "no-cache, no-store, must-revalidate, pre-check=0, post-check=0",
+        "connection": "close",
+        "content-disposition": "attachment; filename=json.json",
+        "content-encoding": "gzip",
+        "content-length": "839",
+        "content-type": "application/json;charset=utf-8",
+        "date": "Thu, 14 Jun 2018 07:09:54 GMT",
+        "expires": "Tue, 31 Mar 1981 05:00:00 GMT",
+        "last-modified": "Thu, 14 Jun 2018 07:09:54 GMT",
+        "pragma": "no-cache",
+        "server": "tsa_b",
+        "set-cookie": [
+          "personalization_id=\"v1_0K1N4y9o7uvm5bi1l1j9XQ==\"; Expires=Sat, 13 Jun 2020 07:09:54 GMT; Path=/; Domain=.twitter.com",
+          "lang=en; Path=/",
+          "guest_id=v1%3A152896019392629005; Expires=Sat, 13 Jun 2020 07:09:54 GMT; Path=/; Domain=.twitter.com"
+        ],
+        "status": "200 OK",
+        "strict-transport-security": "max-age=631138519",
+        "x-access-level": "read-write",
+        "x-connection-hash": "74beb7b0f2845a82f720198e02853b2c",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-response-time": "115",
+        "x-transaction": "0007be4e00697998",
+        "x-twitter-response-tags": "BouncerCompliant",
+        "x-xss-protection": "1; mode=block; report=https://twitter.com/i/xss_report"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "api.twitter.com",
+          "port": 443,
+          "hostname": "api.twitter.com",
+          "hash": null,
+          "search": "?status=Currently%20playing%20Terraform%20by%20Fit%20for%20an%20Autopsy%20%5B2%3A49%2F3%3A47%5D.",
+          "query": "status=Currently%20playing%20Terraform%20by%20Fit%20for%20an%20Autopsy%20%5B2%3A49%2F3%3A47%5D.",
+          "pathname": "/1.1/statuses/update.json",
+          "path": "/1.1/statuses/update.json?status=Currently%20playing%20Terraform%20by%20Fit%20for%20an%20Autopsy%20%5B2%3A49%2F3%3A47%5D.",
+          "href": "https://api.twitter.com/1.1/statuses/update.json?status=Currently%20playing%20Terraform%20by%20Fit%20for%20an%20Autopsy%20%5B2%3A49%2F3%3A47%5D."
+        },
+        "method": "POST",
+        "headers": {
+          "Accept": "*/*",
+          "User-Agent": "twit-client",
+          "Content-type": "application/json",
+          "accept-encoding": "gzip, deflate",
+          "Authorization": "OAuth oauth_consumer_key=\"EZ6lPwbHp7Tuxr0YhRZjkNoUu\",oauth_nonce=\"03319151605d4e52a49dc75aed804a9a\",oauth_signature_method=\"HMAC-SHA1\",oauth_timestamp=\"1528960193\",oauth_token=\"974700047517528065-4kRKjSnoQWwGmwwp6xjryu4ftNmVBIW\",oauth_version=\"1.0\",oauth_signature=\"mFE2Hp368uaReZfsmRjBEorIIwg%3D\"",
+          "content-length": 0
+        }
+      }
+    }
+  }
+}
